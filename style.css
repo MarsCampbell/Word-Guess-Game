@@ -1,0 +1,22 @@
+header {
+
+    height: 70px;
+    background-color: #5F205F;
+}
+
+h1 {
+
+    color: yellow;
+    text-align: center;
+}
+
+#main {
+
+    background-color: blue;
+    height: 10000px;
+}
+
+p {
+
+    color: red;
+}
